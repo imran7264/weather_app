@@ -1,7 +1,7 @@
 # 🌤️ Weather App
 A clean and responsive weather application that provides real-time weather updates.
 
-## 🚀 [Live Demo](YOUR_LINK_HERE)
+## 🚀 [Live Demo](https://imran7264.github.io/weather_app/)
 
 ## ✨ Features
 - [x] Search for weather by city name
